@@ -5,7 +5,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { moderateScale, verticalScale } from 'react-native-size-matters';
 const index = () => {
   if (4 == 4) {
-    return <Redirect href={'/sign'} />
+    return <Redirect href={'/(tabs)'} />
   }
   return (
     <SafeAreaView style={{ flex: 1, justifyContent: 'space-between' }}>
