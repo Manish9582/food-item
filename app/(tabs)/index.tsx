@@ -33,6 +33,8 @@ const index = () => {
             })}
           </View>
         </View>
+
+        <Text>try</Text>
         {/* end main container */}
       </View>
     </SafeAreaView>
