@@ -1,0 +1,542 @@
+[
+  {
+    "id": "52772_1",
+    "name": "Teriyaki Chicken Casserole",
+    "category": "Chicken",
+    "area": "Japanese",
+    "instructions": "Preheat oven to 350\u00b0F. Combine soy sauce, water, brown sugar, garlic, and ginger in a saucepan. Bring to a boil. Dissolve cornstarch in cold water and add to sauce. Boil until thick. Place chicken and vegetables in a baking dish. Pour sauce over and bake for 30 minutes. Serve over rice.",
+    "image": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": "52844_2",
+    "name": "Lasagne",
+    "category": "Pasta",
+    "area": "Italian",
+    "instructions": "Heat oil, add chopped onion, garlic and cook until soft. Add minced beef and cook. Add tomatoes and herbs. Simmer. Layer meat sauce and lasagne sheets, topping with b\u00e9chamel sauce and cheese. Bake for 30\u201340 minutes.",
+    "image": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": "52940_3",
+    "name": "Beef Wellington",
+    "category": "Beef",
+    "area": "British",
+    "instructions": "Sear beef fillet, spread mushroom duxelles, wrap in prosciutto and puff pastry. Bake until golden. Serve in slices.",
+    "image": "https://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg",
+    "rating": 5.0
+  },
+  {
+    "id": "52819_4",
+    "name": "Pad Thai",
+    "category": "Noodles",
+    "area": "Thai",
+    "instructions": "Soak rice noodles, stir-fry with shrimp, tofu, eggs, and bean sprouts. Add tamarind sauce and peanuts. Serve hot with lime.",
+    "image": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": "52802_5",
+    "name": "Poutine",
+    "category": "Miscellaneous",
+    "area": "Canadian",
+    "instructions": "Fry potato fries. Top with cheese curds and hot gravy. Serve immediately.",
+    "image": "https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": "52768_6",
+    "name": "Apple Frangipan Tart",
+    "category": "Dessert",
+    "area": "French",
+    "instructions": "Prepare tart base, add frangipane, top with apple slices. Bake until golden brown.",
+    "image": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg",
+    "rating": 5.1
+  },
+  {
+    "id": "52772_7",
+    "name": "Teriyaki Chicken Casserole",
+    "category": "Chicken",
+    "area": "Japanese",
+    "instructions": "Preheat oven to 350\u00b0F. Combine soy sauce, water, brown sugar, garlic, and ginger in a saucepan. Bring to a boil. Dissolve cornstarch in cold water and add to sauce. Boil until thick. Place chicken and vegetables in a baking dish. Pour sauce over and bake for 30 minutes. Serve over rice.",
+    "image": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": "52844_8",
+    "name": "Lasagne",
+    "category": "Pasta",
+    "area": "Italian",
+    "instructions": "Heat oil, add chopped onion, garlic and cook until soft. Add minced beef and cook. Add tomatoes and herbs. Simmer. Layer meat sauce and lasagne sheets, topping with b\u00e9chamel sauce and cheese. Bake for 30\u201340 minutes.",
+    "image": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": "52940_9",
+    "name": "Beef Wellington",
+    "category": "Beef",
+    "area": "British",
+    "instructions": "Sear beef fillet, spread mushroom duxelles, wrap in prosciutto and puff pastry. Bake until golden. Serve in slices.",
+    "image": "https://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg",
+    "rating": 5.0
+  },
+  {
+    "id": "52819_10",
+    "name": "Pad Thai",
+    "category": "Noodles",
+    "area": "Thai",
+    "instructions": "Soak rice noodles, stir-fry with shrimp, tofu, eggs, and bean sprouts. Add tamarind sauce and peanuts. Serve hot with lime.",
+    "image": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": "52802_11",
+    "name": "Poutine",
+    "category": "Miscellaneous",
+    "area": "Canadian",
+    "instructions": "Fry potato fries. Top with cheese curds and hot gravy. Serve immediately.",
+    "image": "https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": "52768_12",
+    "name": "Apple Frangipan Tart",
+    "category": "Dessert",
+    "area": "French",
+    "instructions": "Prepare tart base, add frangipane, top with apple slices. Bake until golden brown.",
+    "image": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg",
+    "rating": 5.1
+  },
+  {
+    "id": "52772_13",
+    "name": "Teriyaki Chicken Casserole",
+    "category": "Chicken",
+    "area": "Japanese",
+    "instructions": "Preheat oven to 350\u00b0F. Combine soy sauce, water, brown sugar, garlic, and ginger in a saucepan. Bring to a boil. Dissolve cornstarch in cold water and add to sauce. Boil until thick. Place chicken and vegetables in a baking dish. Pour sauce over and bake for 30 minutes. Serve over rice.",
+    "image": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": "52844_14",
+    "name": "Lasagne",
+    "category": "Pasta",
+    "area": "Italian",
+    "instructions": "Heat oil, add chopped onion, garlic and cook until soft. Add minced beef and cook. Add tomatoes and herbs. Simmer. Layer meat sauce and lasagne sheets, topping with b\u00e9chamel sauce and cheese. Bake for 30\u201340 minutes.",
+    "image": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": "52940_15",
+    "name": "Beef Wellington",
+    "category": "Beef",
+    "area": "British",
+    "instructions": "Sear beef fillet, spread mushroom duxelles, wrap in prosciutto and puff pastry. Bake until golden. Serve in slices.",
+    "image": "https://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg",
+    "rating": 5.0
+  },
+  {
+    "id": "52819_16",
+    "name": "Pad Thai",
+    "category": "Noodles",
+    "area": "Thai",
+    "instructions": "Soak rice noodles, stir-fry with shrimp, tofu, eggs, and bean sprouts. Add tamarind sauce and peanuts. Serve hot with lime.",
+    "image": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": "52802_17",
+    "name": "Poutine",
+    "category": "Miscellaneous",
+    "area": "Canadian",
+    "instructions": "Fry potato fries. Top with cheese curds and hot gravy. Serve immediately.",
+    "image": "https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": "52768_18",
+    "name": "Apple Frangipan Tart",
+    "category": "Dessert",
+    "area": "French",
+    "instructions": "Prepare tart base, add frangipane, top with apple slices. Bake until golden brown.",
+    "image": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg",
+    "rating": 5.1
+  },
+  {
+    "id": "52772_19",
+    "name": "Teriyaki Chicken Casserole",
+    "category": "Chicken",
+    "area": "Japanese",
+    "instructions": "Preheat oven to 350\u00b0F. Combine soy sauce, water, brown sugar, garlic, and ginger in a saucepan. Bring to a boil. Dissolve cornstarch in cold water and add to sauce. Boil until thick. Place chicken and vegetables in a baking dish. Pour sauce over and bake for 30 minutes. Serve over rice.",
+    "image": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": "52844_20",
+    "name": "Lasagne",
+    "category": "Pasta",
+    "area": "Italian",
+    "instructions": "Heat oil, add chopped onion, garlic and cook until soft. Add minced beef and cook. Add tomatoes and herbs. Simmer. Layer meat sauce and lasagne sheets, topping with b\u00e9chamel sauce and cheese. Bake for 30\u201340 minutes.",
+    "image": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": "52940_21",
+    "name": "Beef Wellington",
+    "category": "Beef",
+    "area": "British",
+    "instructions": "Sear beef fillet, spread mushroom duxelles, wrap in prosciutto and puff pastry. Bake until golden. Serve in slices.",
+    "image": "https://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg",
+    "rating": 5.0
+  },
+  {
+    "id": "52819_22",
+    "name": "Pad Thai",
+    "category": "Noodles",
+    "area": "Thai",
+    "instructions": "Soak rice noodles, stir-fry with shrimp, tofu, eggs, and bean sprouts. Add tamarind sauce and peanuts. Serve hot with lime.",
+    "image": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": "52802_23",
+    "name": "Poutine",
+    "category": "Miscellaneous",
+    "area": "Canadian",
+    "instructions": "Fry potato fries. Top with cheese curds and hot gravy. Serve immediately.",
+    "image": "https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": "52768_24",
+    "name": "Apple Frangipan Tart",
+    "category": "Dessert",
+    "area": "French",
+    "instructions": "Prepare tart base, add frangipane, top with apple slices. Bake until golden brown.",
+    "image": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg",
+    "rating": 5.1
+  },
+  {
+    "id": "52772_25",
+    "name": "Teriyaki Chicken Casserole",
+    "category": "Chicken",
+    "area": "Japanese",
+    "instructions": "Preheat oven to 350\u00b0F. Combine soy sauce, water, brown sugar, garlic, and ginger in a saucepan. Bring to a boil. Dissolve cornstarch in cold water and add to sauce. Boil until thick. Place chicken and vegetables in a baking dish. Pour sauce over and bake for 30 minutes. Serve over rice.",
+    "image": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": "52844_26",
+    "name": "Lasagne",
+    "category": "Pasta",
+    "area": "Italian",
+    "instructions": "Heat oil, add chopped onion, garlic and cook until soft. Add minced beef and cook. Add tomatoes and herbs. Simmer. Layer meat sauce and lasagne sheets, topping with b\u00e9chamel sauce and cheese. Bake for 30\u201340 minutes.",
+    "image": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": "52940_27",
+    "name": "Beef Wellington",
+    "category": "Beef",
+    "area": "British",
+    "instructions": "Sear beef fillet, spread mushroom duxelles, wrap in prosciutto and puff pastry. Bake until golden. Serve in slices.",
+    "image": "https://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg",
+    "rating": 5.0
+  },
+  {
+    "id": "52819_28",
+    "name": "Pad Thai",
+    "category": "Noodles",
+    "area": "Thai",
+    "instructions": "Soak rice noodles, stir-fry with shrimp, tofu, eggs, and bean sprouts. Add tamarind sauce and peanuts. Serve hot with lime.",
+    "image": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": "52802_29",
+    "name": "Poutine",
+    "category": "Miscellaneous",
+    "area": "Canadian",
+    "instructions": "Fry potato fries. Top with cheese curds and hot gravy. Serve immediately.",
+    "image": "https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": "52768_30",
+    "name": "Apple Frangipan Tart",
+    "category": "Dessert",
+    "area": "French",
+    "instructions": "Prepare tart base, add frangipane, top with apple slices. Bake until golden brown.",
+    "image": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg",
+    "rating": 5.1
+  },
+  {
+    "id": "52772_31",
+    "name": "Teriyaki Chicken Casserole",
+    "category": "Chicken",
+    "area": "Japanese",
+    "instructions": "Preheat oven to 350\u00b0F. Combine soy sauce, water, brown sugar, garlic, and ginger in a saucepan. Bring to a boil. Dissolve cornstarch in cold water and add to sauce. Boil until thick. Place chicken and vegetables in a baking dish. Pour sauce over and bake for 30 minutes. Serve over rice.",
+    "image": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": "52844_32",
+    "name": "Lasagne",
+    "category": "Pasta",
+    "area": "Italian",
+    "instructions": "Heat oil, add chopped onion, garlic and cook until soft. Add minced beef and cook. Add tomatoes and herbs. Simmer. Layer meat sauce and lasagne sheets, topping with b\u00e9chamel sauce and cheese. Bake for 30\u201340 minutes.",
+    "image": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": "52940_33",
+    "name": "Beef Wellington",
+    "category": "Beef",
+    "area": "British",
+    "instructions": "Sear beef fillet, spread mushroom duxelles, wrap in prosciutto and puff pastry. Bake until golden. Serve in slices.",
+    "image": "https://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg",
+    "rating": 5.0
+  },
+  {
+    "id": "52819_34",
+    "name": "Pad Thai",
+    "category": "Noodles",
+    "area": "Thai",
+    "instructions": "Soak rice noodles, stir-fry with shrimp, tofu, eggs, and bean sprouts. Add tamarind sauce and peanuts. Serve hot with lime.",
+    "image": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": "52802_35",
+    "name": "Poutine",
+    "category": "Miscellaneous",
+    "area": "Canadian",
+    "instructions": "Fry potato fries. Top with cheese curds and hot gravy. Serve immediately.",
+    "image": "https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": "52768_36",
+    "name": "Apple Frangipan Tart",
+    "category": "Dessert",
+    "area": "French",
+    "instructions": "Prepare tart base, add frangipane, top with apple slices. Bake until golden brown.",
+    "image": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg",
+    "rating": 5.1
+  },
+  {
+    "id": "52772_37",
+    "name": "Teriyaki Chicken Casserole",
+    "category": "Chicken",
+    "area": "Japanese",
+    "instructions": "Preheat oven to 350\u00b0F. Combine soy sauce, water, brown sugar, garlic, and ginger in a saucepan. Bring to a boil. Dissolve cornstarch in cold water and add to sauce. Boil until thick. Place chicken and vegetables in a baking dish. Pour sauce over and bake for 30 minutes. Serve over rice.",
+    "image": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": "52844_38",
+    "name": "Lasagne",
+    "category": "Pasta",
+    "area": "Italian",
+    "instructions": "Heat oil, add chopped onion, garlic and cook until soft. Add minced beef and cook. Add tomatoes and herbs. Simmer. Layer meat sauce and lasagne sheets, topping with b\u00e9chamel sauce and cheese. Bake for 30\u201340 minutes.",
+    "image": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": "52940_39",
+    "name": "Beef Wellington",
+    "category": "Beef",
+    "area": "British",
+    "instructions": "Sear beef fillet, spread mushroom duxelles, wrap in prosciutto and puff pastry. Bake until golden. Serve in slices.",
+    "image": "https://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg",
+    "rating": 5.0
+  },
+  {
+    "id": "52819_40",
+    "name": "Pad Thai",
+    "category": "Noodles",
+    "area": "Thai",
+    "instructions": "Soak rice noodles, stir-fry with shrimp, tofu, eggs, and bean sprouts. Add tamarind sauce and peanuts. Serve hot with lime.",
+    "image": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": "52802_41",
+    "name": "Poutine",
+    "category": "Miscellaneous",
+    "area": "Canadian",
+    "instructions": "Fry potato fries. Top with cheese curds and hot gravy. Serve immediately.",
+    "image": "https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": "52768_42",
+    "name": "Apple Frangipan Tart",
+    "category": "Dessert",
+    "area": "French",
+    "instructions": "Prepare tart base, add frangipane, top with apple slices. Bake until golden brown.",
+    "image": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg",
+    "rating": 5.1
+  },
+  {
+    "id": "52772_43",
+    "name": "Teriyaki Chicken Casserole",
+    "category": "Chicken",
+    "area": "Japanese",
+    "instructions": "Preheat oven to 350\u00b0F. Combine soy sauce, water, brown sugar, garlic, and ginger in a saucepan. Bring to a boil. Dissolve cornstarch in cold water and add to sauce. Boil until thick. Place chicken and vegetables in a baking dish. Pour sauce over and bake for 30 minutes. Serve over rice.",
+    "image": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": "52844_44",
+    "name": "Lasagne",
+    "category": "Pasta",
+    "area": "Italian",
+    "instructions": "Heat oil, add chopped onion, garlic and cook until soft. Add minced beef and cook. Add tomatoes and herbs. Simmer. Layer meat sauce and lasagne sheets, topping with b\u00e9chamel sauce and cheese. Bake for 30\u201340 minutes.",
+    "image": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": "52940_45",
+    "name": "Beef Wellington",
+    "category": "Beef",
+    "area": "British",
+    "instructions": "Sear beef fillet, spread mushroom duxelles, wrap in prosciutto and puff pastry. Bake until golden. Serve in slices.",
+    "image": "https://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg",
+    "rating": 5.0
+  },
+  {
+    "id": "52819_46",
+    "name": "Pad Thai",
+    "category": "Noodles",
+    "area": "Thai",
+    "instructions": "Soak rice noodles, stir-fry with shrimp, tofu, eggs, and bean sprouts. Add tamarind sauce and peanuts. Serve hot with lime.",
+    "image": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": "52802_47",
+    "name": "Poutine",
+    "category": "Miscellaneous",
+    "area": "Canadian",
+    "instructions": "Fry potato fries. Top with cheese curds and hot gravy. Serve immediately.",
+    "image": "https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": "52768_48",
+    "name": "Apple Frangipan Tart",
+    "category": "Dessert",
+    "area": "French",
+    "instructions": "Prepare tart base, add frangipane, top with apple slices. Bake until golden brown.",
+    "image": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg",
+    "rating": 5.1
+  },
+  {
+    "id": "52772_49",
+    "name": "Teriyaki Chicken Casserole",
+    "category": "Chicken",
+    "area": "Japanese",
+    "instructions": "Preheat oven to 350\u00b0F. Combine soy sauce, water, brown sugar, garlic, and ginger in a saucepan. Bring to a boil. Dissolve cornstarch in cold water and add to sauce. Boil until thick. Place chicken and vegetables in a baking dish. Pour sauce over and bake for 30 minutes. Serve over rice.",
+    "image": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": "52844_50",
+    "name": "Lasagne",
+    "category": "Pasta",
+    "area": "Italian",
+    "instructions": "Heat oil, add chopped onion, garlic and cook until soft. Add minced beef and cook. Add tomatoes and herbs. Simmer. Layer meat sauce and lasagne sheets, topping with b\u00e9chamel sauce and cheese. Bake for 30\u201340 minutes.",
+    "image": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": "52940_51",
+    "name": "Beef Wellington",
+    "category": "Beef",
+    "area": "British",
+    "instructions": "Sear beef fillet, spread mushroom duxelles, wrap in prosciutto and puff pastry. Bake until golden. Serve in slices.",
+    "image": "https://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg",
+    "rating": 5.0
+  },
+  {
+    "id": "52819_52",
+    "name": "Pad Thai",
+    "category": "Noodles",
+    "area": "Thai",
+    "instructions": "Soak rice noodles, stir-fry with shrimp, tofu, eggs, and bean sprouts. Add tamarind sauce and peanuts. Serve hot with lime.",
+    "image": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": "52802_53",
+    "name": "Poutine",
+    "category": "Miscellaneous",
+    "area": "Canadian",
+    "instructions": "Fry potato fries. Top with cheese curds and hot gravy. Serve immediately.",
+    "image": "https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": "52768_54",
+    "name": "Apple Frangipan Tart",
+    "category": "Dessert",
+    "area": "French",
+    "instructions": "Prepare tart base, add frangipane, top with apple slices. Bake until golden brown.",
+    "image": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg",
+    "rating": 5.1
+  },
+  {
+    "id": "52772_55",
+    "name": "Teriyaki Chicken Casserole",
+    "category": "Chicken",
+    "area": "Japanese",
+    "instructions": "Preheat oven to 350\u00b0F. Combine soy sauce, water, brown sugar, garlic, and ginger in a saucepan. Bring to a boil. Dissolve cornstarch in cold water and add to sauce. Boil until thick. Place chicken and vegetables in a baking dish. Pour sauce over and bake for 30 minutes. Serve over rice.",
+    "image": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": "52844_56",
+    "name": "Lasagne",
+    "category": "Pasta",
+    "area": "Italian",
+    "instructions": "Heat oil, add chopped onion, garlic and cook until soft. Add minced beef and cook. Add tomatoes and herbs. Simmer. Layer meat sauce and lasagne sheets, topping with b\u00e9chamel sauce and cheese. Bake for 30\u201340 minutes.",
+    "image": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": "52940_57",
+    "name": "Beef Wellington",
+    "category": "Beef",
+    "area": "British",
+    "instructions": "Sear beef fillet, spread mushroom duxelles, wrap in prosciutto and puff pastry. Bake until golden. Serve in slices.",
+    "image": "https://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg",
+    "rating": 5.0
+  },
+  {
+    "id": "52819_58",
+    "name": "Pad Thai",
+    "category": "Noodles",
+    "area": "Thai",
+    "instructions": "Soak rice noodles, stir-fry with shrimp, tofu, eggs, and bean sprouts. Add tamarind sauce and peanuts. Serve hot with lime.",
+    "image": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": "52802_59",
+    "name": "Poutine",
+    "category": "Miscellaneous",
+    "area": "Canadian",
+    "instructions": "Fry potato fries. Top with cheese curds and hot gravy. Serve immediately.",
+    "image": "https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": "52768_60",
+    "name": "Apple Frangipan Tart",
+    "category": "Dessert",
+    "area": "French",
+    "instructions": "Prepare tart base, add frangipane, top with apple slices. Bake until golden brown.",
+    "image": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg",
+    "rating": 5.1
+  }
+]
